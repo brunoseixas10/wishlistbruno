@@ -1,0 +1,12 @@
+C:\Users\XXX\Desktop\Teste magazine luiza\WishlistBruno\Wishlist.Repository\bin\Debug\netcoreapp2.2\Wishlist.Repository.deps.json
+C:\Users\XXX\Desktop\Teste magazine luiza\WishlistBruno\Wishlist.Repository\bin\Debug\netcoreapp2.2\Wishlist.Repository.dll
+C:\Users\XXX\Desktop\Teste magazine luiza\WishlistBruno\Wishlist.Repository\bin\Debug\netcoreapp2.2\Wishlist.Repository.pdb
+C:\Users\XXX\Desktop\Teste magazine luiza\WishlistBruno\Wishlist.Repository\bin\Debug\netcoreapp2.2\Wishlist.Model.dll
+C:\Users\XXX\Desktop\Teste magazine luiza\WishlistBruno\Wishlist.Repository\bin\Debug\netcoreapp2.2\Wishlist.Model.pdb
+C:\Users\XXX\Desktop\Teste magazine luiza\WishlistBruno\Wishlist.Repository\obj\Debug\netcoreapp2.2\Wishlist.Repository.csprojAssemblyReference.cache
+C:\Users\XXX\Desktop\Teste magazine luiza\WishlistBruno\Wishlist.Repository\obj\Debug\netcoreapp2.2\Wishlist.Repository.csproj.CoreCompileInputs.cache
+C:\Users\XXX\Desktop\Teste magazine luiza\WishlistBruno\Wishlist.Repository\obj\Debug\netcoreapp2.2\Wishlist.Repository.AssemblyInfoInputs.cache
+C:\Users\XXX\Desktop\Teste magazine luiza\WishlistBruno\Wishlist.Repository\obj\Debug\netcoreapp2.2\Wishlist.Repository.AssemblyInfo.cs
+C:\Users\XXX\Desktop\Teste magazine luiza\WishlistBruno\Wishlist.Repository\obj\Debug\netcoreapp2.2\Wishlist.Repository.csproj.CopyComplete
+C:\Users\XXX\Desktop\Teste magazine luiza\WishlistBruno\Wishlist.Repository\obj\Debug\netcoreapp2.2\Wishlist.Repository.dll
+C:\Users\XXX\Desktop\Teste magazine luiza\WishlistBruno\Wishlist.Repository\obj\Debug\netcoreapp2.2\Wishlist.Repository.pdb
